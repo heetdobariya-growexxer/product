@@ -1,1 +1,2 @@
 Made navbar
+Updated navbar
